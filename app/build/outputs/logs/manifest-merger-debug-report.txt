@@ -1,0 +1,575 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\587d18646a7093d14f8b3e743e0bcf45\navigation-fragment-ktx-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.0-alpha06] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\f1d228a8fb7ff8e28619dc1dceb176ed\jetified-fragment-ktx-1.3.0-alpha06\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\f3d575457b20487766d2d026f9088807\navigation-ui-ktx-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\3fe0eff01001be9117ee1e322e1e67ca\navigation-runtime-ktx-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.0-alpha06] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\7861dd040d6a4a1a2eedb4596fa4bb61\jetified-activity-ktx-1.2.0-alpha06\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\1cd7d80051d1ac5ee2bba38c60b4af20\jetified-core-ktx-1.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\133a6de281e509a90c841ffeb5e6152f\jetified-lifecycle-viewmodel-ktx-2.3.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\c99548d64c5a2ea7b4f8503f276a8596\jetified-lifecycle-livedata-ktx-2.3.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime-ktx:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\95ae9477e6ab4c2e0e0011a17d56cd01\work-runtime-ktx-2.4.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\52474d27b407fb1b54d5b5dbe868a1da\jetified-lifecycle-livedata-core-ktx-2.3.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\1c6f1f66b0f0abd2b9fe5ea9ae23bea2\jetified-lifecycle-runtime-ktx-2.3.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\2839d4f8dbfda34f5c63c63b41eb5af8\navigation-common-ktx-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\db28fe2288fd58ac8cdf3b086485d080\navigation-ui-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\b1a301ed3ebad65ae261befd4bd0639c\material-1.3.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\0c4b1e4433cf7d13b17efbea76cc190a\constraintlayout-2.0.0-beta7\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\09bb36e1705df0a1e01d375eb4d231ae\appcompat-1.3.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\e03f037dc993f4104b20a0d806e5a15b\jetified-appcompat-resources-1.3.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\99442bd738dcbbb7bc3dc8208ad06239\navigation-fragment-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\c8809dd8c718e97e895b565a94ea2e94\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\0d368f54617e38583170cc08fc8a1bc6\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\d2702e8d8778cfecd75531857101a79a\jetified-viewpager2-1.1.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\095f0e8a50cda89c2dcf3ae00cd5c46a\jetified-exoplayer-2.10.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\15a8a0af81874c687d2b05563b43b657\jetified-hilt-lifecycle-viewmodel-1.0.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-common:1.0.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\871accadbad7a214dad71f43b8211ca7\jetified-hilt-common-1.0.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.28-alpha] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\1e76a98863bd66222efedba2636cf336\jetified-hilt-android-2.28-alpha\AndroidManifest.xml:16:1-19:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\96ecf64b4e0646d5e53f8f3ae22b42cb\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\931943af9d4a016b3763dadedcdea43c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\6ce15acaf3b5f891377f10f38f2ec329\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\a26fdf65ee153401683830ddec701b5e\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\2251dbe5897c80ee92181106987dcf4b\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.0-alpha06] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\18457af7e5dff5263c049249296cfbf3\fragment-1.3.0-alpha06\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\490df8f85b98e2341bb923c0481cfb05\navigation-runtime-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.0-alpha06] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\35d9884ace98d9d7e98fea8589834dc2\jetified-activity-1.2.0-alpha06\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\77ba9f56f74b03eaa6d8ec1dca46f739\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\473729a8aa9a63aaa67ef534fc7e1320\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\0c7b018e9d0817521d74291b7757bdfc\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\e808be437c8ed83156df9e65798ef1c5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha02] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\a3a88b1c2070874335ebef640c9065a4\recyclerview-1.2.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:17:1-143:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\47df288ce94a55d86b52f8b7f0f740e6\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\d77e2f48d4b70d5445a00edaccef7803\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\797ad9a535076950676a21d2eba5753c\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\5989b591530ff359c28e103e8f4d660b\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\b1106f8360f61a4f7c00bd58059c2b7e\navigation-common-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\7ac04bcc098daefd33c86e938376f0a2\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\23284c5e64851b85b252b796ed13e4bb\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\f00d74e14b2f3409d99518f32933ef19\jetified-exoplayer-ui-2.10.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.1] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\a485042744590088596bb092c069096c\media-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.4.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\32212d1a0daf92534ea95538ee33d3b9\core-1.4.0-alpha01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\8d68f3ac09da9e049b43eaf44a8d4fc9\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\eb34cb1b9de684cea4082e59335e62cd\jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\0536b86468ec6fa0a098020d79491397\jetified-savedstate-1.1.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\7264b62a248819d90a11e4ed69d9c3e9\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\e1a155c3602d568e42a348cbefba1a8d\lifecycle-livedata-2.3.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\f571e4a0f0792dd15d116865dd7f308d\lifecycle-livedata-core-2.3.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\344a305dd6060aa2b84d41ef7cee770b\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\43f0c8b15bdc0df43247aa15d8d15383\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\168319591b36c9d1e1ac06031272e087\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\218a0f60e40df2883af847bef91437b1\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ab337187a0be7a959e647f7aed4ccdfc\lifecycle-runtime-2.3.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\8da5a9dc91c477bb830315b2c3e67fc1\lifecycle-viewmodel-2.3.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\d1461af1902bc87d3fb58a3f49223030\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\029731631f9eacdecb0c617bb582cd96\jetified-exoplayer-dash-2.10.4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\d77ccf7f0830ed6251d20174dece29ee\jetified-exoplayer-hls-2.10.4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\b3e4f2a3df76e27cb42b77b0b84e3299\jetified-exoplayer-smoothstreaming-2.10.4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\1c14802c0c32f4df7b31f8e5c336891e\jetified-exoplayer-core-2.10.4\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\dcbc6d0a16b03a21e365ea2ede547852\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\5e3af6fb2cd331a86193d7d1bd294b16\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\0f0932037200c9bcb7ec344366fd928b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\9cb6be859951db9b7a8f81f8d1b55a7e\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\2c1223177e0a314c42d4abbf865b424a\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\5cc5e620ed952db2952820ee9670e011\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\788fd05aef616d02d11827cae89d8690\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ca94a7c6e005ae03647f8cbd4f58d26f\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\051beaeb481a6d4ba537c68b86e7cfa0\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.28] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\32d5271dfda01c70b4dfaf3c25584807\jetified-dagger-lint-aar-2.28\AndroidManifest.xml:16:1-18:12
+INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.google.android.material:material:1.3.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\b1a301ed3ebad65ae261befd4bd0639c\material-1.3.0-alpha01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\b1a301ed3ebad65ae261befd4bd0639c\material-1.3.0-alpha01\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\0c4b1e4433cf7d13b17efbea76cc190a\constraintlayout-2.0.0-beta7\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\0c4b1e4433cf7d13b17efbea76cc190a\constraintlayout-2.0.0-beta7\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\c8809dd8c718e97e895b565a94ea2e94\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\c8809dd8c718e97e895b565a94ea2e94\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\96ecf64b4e0646d5e53f8f3ae22b42cb\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\96ecf64b4e0646d5e53f8f3ae22b42cb\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:30:5-141:19
+MERGED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:30:5-141:19
+MERGED from [androidx.core:core:1.4.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\32212d1a0daf92534ea95538ee33d3b9\core-1.4.0-alpha01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.4.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\32212d1a0daf92534ea95538ee33d3b9\core-1.4.0-alpha01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\344a305dd6060aa2b84d41ef7cee770b\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\344a305dd6060aa2b84d41ef7cee770b\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\168319591b36c9d1e1ac06031272e087\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\168319591b36c9d1e1ac06031272e087\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\d1461af1902bc87d3fb58a3f49223030\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\d1461af1902bc87d3fb58a3f49223030\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\dcbc6d0a16b03a21e365ea2ede547852\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\dcbc6d0a16b03a21e365ea2ede547852\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.4.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\32212d1a0daf92534ea95538ee33d3b9\core-1.4.0-alpha01\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:8:9-34
+activity#com.app.tiktok.ui.main.activity.MainActivity
+ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:16:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\587d18646a7093d14f8b3e743e0bcf45\navigation-fragment-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\587d18646a7093d14f8b3e743e0bcf45\navigation-fragment-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.0-alpha06] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\f1d228a8fb7ff8e28619dc1dceb176ed\jetified-fragment-ktx-1.3.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.0-alpha06] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\f1d228a8fb7ff8e28619dc1dceb176ed\jetified-fragment-ktx-1.3.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\f3d575457b20487766d2d026f9088807\navigation-ui-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\f3d575457b20487766d2d026f9088807\navigation-ui-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\3fe0eff01001be9117ee1e322e1e67ca\navigation-runtime-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\3fe0eff01001be9117ee1e322e1e67ca\navigation-runtime-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.0-alpha06] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\7861dd040d6a4a1a2eedb4596fa4bb61\jetified-activity-ktx-1.2.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.0-alpha06] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\7861dd040d6a4a1a2eedb4596fa4bb61\jetified-activity-ktx-1.2.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\1cd7d80051d1ac5ee2bba38c60b4af20\jetified-core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\1cd7d80051d1ac5ee2bba38c60b4af20\jetified-core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\133a6de281e509a90c841ffeb5e6152f\jetified-lifecycle-viewmodel-ktx-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\133a6de281e509a90c841ffeb5e6152f\jetified-lifecycle-viewmodel-ktx-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\c99548d64c5a2ea7b4f8503f276a8596\jetified-lifecycle-livedata-ktx-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\c99548d64c5a2ea7b4f8503f276a8596\jetified-lifecycle-livedata-ktx-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\95ae9477e6ab4c2e0e0011a17d56cd01\work-runtime-ktx-2.4.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\95ae9477e6ab4c2e0e0011a17d56cd01\work-runtime-ktx-2.4.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\52474d27b407fb1b54d5b5dbe868a1da\jetified-lifecycle-livedata-core-ktx-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\52474d27b407fb1b54d5b5dbe868a1da\jetified-lifecycle-livedata-core-ktx-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\1c6f1f66b0f0abd2b9fe5ea9ae23bea2\jetified-lifecycle-runtime-ktx-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\1c6f1f66b0f0abd2b9fe5ea9ae23bea2\jetified-lifecycle-runtime-ktx-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\2839d4f8dbfda34f5c63c63b41eb5af8\navigation-common-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\2839d4f8dbfda34f5c63c63b41eb5af8\navigation-common-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\db28fe2288fd58ac8cdf3b086485d080\navigation-ui-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\db28fe2288fd58ac8cdf3b086485d080\navigation-ui-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\b1a301ed3ebad65ae261befd4bd0639c\material-1.3.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\b1a301ed3ebad65ae261befd4bd0639c\material-1.3.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\0c4b1e4433cf7d13b17efbea76cc190a\constraintlayout-2.0.0-beta7\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\0c4b1e4433cf7d13b17efbea76cc190a\constraintlayout-2.0.0-beta7\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\09bb36e1705df0a1e01d375eb4d231ae\appcompat-1.3.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\09bb36e1705df0a1e01d375eb4d231ae\appcompat-1.3.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\e03f037dc993f4104b20a0d806e5a15b\jetified-appcompat-resources-1.3.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\e03f037dc993f4104b20a0d806e5a15b\jetified-appcompat-resources-1.3.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\99442bd738dcbbb7bc3dc8208ad06239\navigation-fragment-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\99442bd738dcbbb7bc3dc8208ad06239\navigation-fragment-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\c8809dd8c718e97e895b565a94ea2e94\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\c8809dd8c718e97e895b565a94ea2e94\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\0d368f54617e38583170cc08fc8a1bc6\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\0d368f54617e38583170cc08fc8a1bc6\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\d2702e8d8778cfecd75531857101a79a\jetified-viewpager2-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\d2702e8d8778cfecd75531857101a79a\jetified-viewpager2-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\095f0e8a50cda89c2dcf3ae00cd5c46a\jetified-exoplayer-2.10.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\095f0e8a50cda89c2dcf3ae00cd5c46a\jetified-exoplayer-2.10.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\15a8a0af81874c687d2b05563b43b657\jetified-hilt-lifecycle-viewmodel-1.0.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\15a8a0af81874c687d2b05563b43b657\jetified-hilt-lifecycle-viewmodel-1.0.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-common:1.0.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\871accadbad7a214dad71f43b8211ca7\jetified-hilt-common-1.0.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-common:1.0.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\871accadbad7a214dad71f43b8211ca7\jetified-hilt-common-1.0.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.28-alpha] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\1e76a98863bd66222efedba2636cf336\jetified-hilt-android-2.28-alpha\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.28-alpha] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\1e76a98863bd66222efedba2636cf336\jetified-hilt-android-2.28-alpha\AndroidManifest.xml:18:3-42
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\96ecf64b4e0646d5e53f8f3ae22b42cb\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\96ecf64b4e0646d5e53f8f3ae22b42cb\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\931943af9d4a016b3763dadedcdea43c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\931943af9d4a016b3763dadedcdea43c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\6ce15acaf3b5f891377f10f38f2ec329\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\6ce15acaf3b5f891377f10f38f2ec329\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\a26fdf65ee153401683830ddec701b5e\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\a26fdf65ee153401683830ddec701b5e\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\2251dbe5897c80ee92181106987dcf4b\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\2251dbe5897c80ee92181106987dcf4b\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0-alpha06] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\18457af7e5dff5263c049249296cfbf3\fragment-1.3.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0-alpha06] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\18457af7e5dff5263c049249296cfbf3\fragment-1.3.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\490df8f85b98e2341bb923c0481cfb05\navigation-runtime-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\490df8f85b98e2341bb923c0481cfb05\navigation-runtime-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-alpha06] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\35d9884ace98d9d7e98fea8589834dc2\jetified-activity-1.2.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-alpha06] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\35d9884ace98d9d7e98fea8589834dc2\jetified-activity-1.2.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\77ba9f56f74b03eaa6d8ec1dca46f739\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\77ba9f56f74b03eaa6d8ec1dca46f739\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\473729a8aa9a63aaa67ef534fc7e1320\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\473729a8aa9a63aaa67ef534fc7e1320\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\0c7b018e9d0817521d74291b7757bdfc\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\0c7b018e9d0817521d74291b7757bdfc\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\e808be437c8ed83156df9e65798ef1c5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\e808be437c8ed83156df9e65798ef1c5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha02] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\a3a88b1c2070874335ebef640c9065a4\recyclerview-1.2.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha02] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\a3a88b1c2070874335ebef640c9065a4\recyclerview-1.2.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\47df288ce94a55d86b52f8b7f0f740e6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\47df288ce94a55d86b52f8b7f0f740e6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\d77e2f48d4b70d5445a00edaccef7803\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\d77e2f48d4b70d5445a00edaccef7803\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\797ad9a535076950676a21d2eba5753c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\797ad9a535076950676a21d2eba5753c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\5989b591530ff359c28e103e8f4d660b\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\5989b591530ff359c28e103e8f4d660b\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\b1106f8360f61a4f7c00bd58059c2b7e\navigation-common-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\b1106f8360f61a4f7c00bd58059c2b7e\navigation-common-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\7ac04bcc098daefd33c86e938376f0a2\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\7ac04bcc098daefd33c86e938376f0a2\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\23284c5e64851b85b252b796ed13e4bb\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\23284c5e64851b85b252b796ed13e4bb\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\f00d74e14b2f3409d99518f32933ef19\jetified-exoplayer-ui-2.10.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\f00d74e14b2f3409d99518f32933ef19\jetified-exoplayer-ui-2.10.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.1] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\a485042744590088596bb092c069096c\media-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.1] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\a485042744590088596bb092c069096c\media-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.4.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\32212d1a0daf92534ea95538ee33d3b9\core-1.4.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.4.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\32212d1a0daf92534ea95538ee33d3b9\core-1.4.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\8d68f3ac09da9e049b43eaf44a8d4fc9\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\8d68f3ac09da9e049b43eaf44a8d4fc9\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\eb34cb1b9de684cea4082e59335e62cd\jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\eb34cb1b9de684cea4082e59335e62cd\jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\0536b86468ec6fa0a098020d79491397\jetified-savedstate-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\0536b86468ec6fa0a098020d79491397\jetified-savedstate-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\7264b62a248819d90a11e4ed69d9c3e9\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\7264b62a248819d90a11e4ed69d9c3e9\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\e1a155c3602d568e42a348cbefba1a8d\lifecycle-livedata-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\e1a155c3602d568e42a348cbefba1a8d\lifecycle-livedata-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\f571e4a0f0792dd15d116865dd7f308d\lifecycle-livedata-core-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\f571e4a0f0792dd15d116865dd7f308d\lifecycle-livedata-core-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\344a305dd6060aa2b84d41ef7cee770b\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\344a305dd6060aa2b84d41ef7cee770b\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\43f0c8b15bdc0df43247aa15d8d15383\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\43f0c8b15bdc0df43247aa15d8d15383\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\168319591b36c9d1e1ac06031272e087\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\168319591b36c9d1e1ac06031272e087\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\218a0f60e40df2883af847bef91437b1\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\218a0f60e40df2883af847bef91437b1\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ab337187a0be7a959e647f7aed4ccdfc\lifecycle-runtime-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ab337187a0be7a959e647f7aed4ccdfc\lifecycle-runtime-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\8da5a9dc91c477bb830315b2c3e67fc1\lifecycle-viewmodel-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha04] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\8da5a9dc91c477bb830315b2c3e67fc1\lifecycle-viewmodel-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\d1461af1902bc87d3fb58a3f49223030\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\d1461af1902bc87d3fb58a3f49223030\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\029731631f9eacdecb0c617bb582cd96\jetified-exoplayer-dash-2.10.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\029731631f9eacdecb0c617bb582cd96\jetified-exoplayer-dash-2.10.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\d77ccf7f0830ed6251d20174dece29ee\jetified-exoplayer-hls-2.10.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\d77ccf7f0830ed6251d20174dece29ee\jetified-exoplayer-hls-2.10.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\b3e4f2a3df76e27cb42b77b0b84e3299\jetified-exoplayer-smoothstreaming-2.10.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\b3e4f2a3df76e27cb42b77b0b84e3299\jetified-exoplayer-smoothstreaming-2.10.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\1c14802c0c32f4df7b31f8e5c336891e\jetified-exoplayer-core-2.10.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\1c14802c0c32f4df7b31f8e5c336891e\jetified-exoplayer-core-2.10.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\dcbc6d0a16b03a21e365ea2ede547852\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\dcbc6d0a16b03a21e365ea2ede547852\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\5e3af6fb2cd331a86193d7d1bd294b16\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\5e3af6fb2cd331a86193d7d1bd294b16\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\0f0932037200c9bcb7ec344366fd928b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\0f0932037200c9bcb7ec344366fd928b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\9cb6be859951db9b7a8f81f8d1b55a7e\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\9cb6be859951db9b7a8f81f8d1b55a7e\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\2c1223177e0a314c42d4abbf865b424a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\2c1223177e0a314c42d4abbf865b424a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\5cc5e620ed952db2952820ee9670e011\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\5cc5e620ed952db2952820ee9670e011\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\788fd05aef616d02d11827cae89d8690\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\788fd05aef616d02d11827cae89d8690\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ca94a7c6e005ae03647f8cbd4f58d26f\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ca94a7c6e005ae03647f8cbd4f58d26f\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\051beaeb481a6d4ba537c68b86e7cfa0\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\051beaeb481a6d4ba537c68b86e7cfa0\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\1c14802c0c32f4df7b31f8e5c336891e\jetified-exoplayer-core-2.10.4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.4] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\1c14802c0c32f4df7b31f8e5c336891e\jetified-exoplayer-core-2.10.4\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:28:22-74
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:31:9-37:35
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:33:13-68
+	android:multiprocess
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:36:13-40
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:32:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:39:9-44:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:43:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:44:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:45:9-51:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:48:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:49:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:50:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:51:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:46:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:52:9-57:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:55:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:56:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:57:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:53:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:59:9-64:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:62:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:63:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:64:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:61:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:60:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:65:9-75:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:68:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:69:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:70:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:67:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:66:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:71:13-74:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:72:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:72:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:73:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:73:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:76:9-86:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:79:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:80:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:81:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:78:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:77:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:82:13-85:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:83:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:84:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:84:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:87:9-97:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:90:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:91:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:92:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:89:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:88:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:93:13-96:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:94:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:94:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:95:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:95:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:98:9-107:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:101:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:102:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:103:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:100:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:99:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:104:13-106:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:105:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:105:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:108:9-119:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:111:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:112:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:113:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:110:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:109:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:114:13-118:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:115:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:115:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:116:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:116:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:117:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:117:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:120:9-129:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:123:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:124:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:125:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:122:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:121:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:126:13-128:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:127:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:127:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:130:9-140:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:133:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:134:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:135:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:136:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:132:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:131:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:137:13-139:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:138:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0-beta01] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\ac9cfa937695eeb5d7f6b536702deaf8\work-runtime-2.4.0-beta01\AndroidManifest.xml:138:25-85
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\344a305dd6060aa2b84d41ef7cee770b\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\344a305dd6060aa2b84d41ef7cee770b\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\344a305dd6060aa2b84d41ef7cee770b\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\344a305dd6060aa2b84d41ef7cee770b\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\168319591b36c9d1e1ac06031272e087\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\168319591b36c9d1e1ac06031272e087\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\168319591b36c9d1e1ac06031272e087\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\168319591b36c9d1e1ac06031272e087\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\wimobi\.gradle\caches\transforms-2\files-2.1\168319591b36c9d1e1ac06031272e087\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:2:1-25:12 reason: dagger.lint has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:2:1-25:12 reason: dagger.lint has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\wimobi\Desktop\TikTok\app\src\main\AndroidManifest.xml:2:1-25:12 reason: dagger.lint requested WRITE_EXTERNAL_STORAGE
